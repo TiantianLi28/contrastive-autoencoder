@@ -1,0 +1,17 @@
+{
+    "clopid_path" : "/path/to/clopid_path.csv",
+    "anemia_path" : "/path/to/anemia_path.csv" ,
+    "proton_beam_path" : "/path/to/proton_beam_path.csv" ,
+    "hyperglycemia_path" : "path/to/hyperglycemia_path.csv" ,
+    "vectorized_path" : "/path/to/vectorized_path.csv" ,
+    "ae_path" : "/path/to/trained_autoencoder" ,
+    "cohen_path" : "/path/to/cohen.csv" ,
+    "clopid_paraphrased" : "/path/to/clopid_paraphrased.csv" ,
+    "anemia_paraphrased" : "/path/to/anemia_paraphrased.csv",  
+    "proton_beam_paraphrased" : "./output/'proton_beam_paraphrased.csv",
+    "hyperglycemia_paraphrased" : "/path/to/hyperglycemia_paraphrased.csv",  
+    "cohen_paraphrased" : "/path/to/cohen_paraphrased.csv",  
+    "path_to_percentage_datasets" : "/path/to/percentage_datasets.csv",  
+    "fasttext_output" : "/path/to/fasttext_output.csv"
+    
+}
